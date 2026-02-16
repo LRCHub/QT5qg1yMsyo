@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Get busy",
+  "base_artist": "ヒプノシスマイク -D.R.B- (波羅夷空却)、ヒプノシスマイク -D.R.B- (山田二郎)",
+  "createdAt": "2026-02-16T17:05:15.111868Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Get Busy",
+      "artist": "The Roots feat. Dice Raw & Peedi Peedi",
+      "has_synced": true,
+      "path": "select/01_Get_Busy_The_Roots_feat._Dice_Raw_&_Peedi_Peedi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Get Busy with the Fizzy (2018 - Remaster)",
+      "artist": "Garbage",
+      "has_synced": true,
+      "path": "select/02_Get_Busy_with_the_Fizzy_(2018_-_Remaster)_Garbage.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Get Busy With The Fizzy",
+      "artist": "Garbage",
+      "has_synced": true,
+      "path": "select/03_Get_Busy_With_The_Fizzy_Garbage.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Get busy with the fizzy",
+      "artist": "Garbage",
+      "has_synced": false,
+      "path": "select/04_Get_busy_with_the_fizzy_Garbage.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Gët Busy",
+      "artist": "Yeat",
+      "has_synced": true,
+      "path": "select/05_Gët_Busy_Yeat.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Born to Get Busy",
+      "artist": "Cypress Hill",
+      "has_synced": false,
+      "path": "select/06_Born_to_Get_Busy_Cypress_Hill.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Get Busy Living Or Get Busy Dying (Do Your Part To Save The Scene And Stop Going To Shows)",
+      "artist": "Fall Out Boy",
+      "has_synced": true,
+      "path": "select/07_Get_Busy_Living_Or_Get_Busy_Dying_(Do_Your_Part_To_Save_The_Scene_And_Stop_Going_Fall_Out_Boy.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Get Busy",
+      "artist": "Guano Apes",
+      "has_synced": true,
+      "path": "select/08_Get_Busy_Guano_Apes.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Get Busy (feat. Dice Raw & Peedi Peedi)",
+      "artist": "The Roots",
+      "has_synced": true,
+      "path": "select/09_Get_Busy_(feat._Dice_Raw_&_Peedi_Peedi)_The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Get Busy Livin'",
+      "artist": "Airbourne",
+      "has_synced": true,
+      "path": "select/10_Get_Busy_Livin'_Airbourne.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Get Busy",
+      "artist": "Sean Paul",
+      "has_synced": true,
+      "path": "select/11_Get_Busy_Sean_Paul.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Get Busy (Live)",
+      "artist": "Sean Paul",
+      "has_synced": false,
+      "path": "select/12_Get_Busy_(Live)_Sean_Paul.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Get Busy (Aol Sessions)",
+      "artist": "Sean Paul",
+      "has_synced": false,
+      "path": "select/13_Get_Busy_(Aol_Sessions)_Sean_Paul.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Let's Get Busy",
+      "artist": "Dinah Washington",
+      "has_synced": false,
+      "path": "select/14_Let's_Get_Busy_Dinah_Washington.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Now Get Busy",
+      "artist": "Beastie Boys",
+      "has_synced": true,
+      "path": "select/15_Now_Get_Busy_Beastie_Boys.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Now Get Busy (Bonus)",
+      "artist": "Beastie Boys",
+      "has_synced": true,
+      "path": "select/16_Now_Get_Busy_(Bonus)_Beastie_Boys.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Get Busy",
+      "artist": "The Roots",
+      "has_synced": true,
+      "path": "select/17_Get_Busy_The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Get Busy",
+      "artist": "Mr. Lee",
+      "has_synced": false,
+      "path": "select/18_Get_Busy_Mr._Lee.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Get busy",
+      "artist": "ヒプノシスマイク -D.R.B- (波羅夷空却),ヒプノシスマイク -D.R.B- (山田二郎)",
+      "has_synced": false,
+      "path": "select/pl_01_Get_busy_ヒプノシスマイク_-D.R.B-_(波羅夷空却),ヒプノシスマイク_-D.R.B-_(山田二郎).txt"
+    }
+  ]
+}
